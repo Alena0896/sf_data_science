@@ -4,7 +4,7 @@
 
 [1.Описание проекта](https://github.com/Alena0896/sf_data_science/tree/main/Project_1#Описание-проекта)
 
-[2.Какой кейс решаем?](https://github.com/Alena0896/sf_data_science/tree/main/Project_1Какой-кейс-решаем#)
+[2.Какой кейс решаем?](https://github.com/Alena0896/sf_data_science/tree/main/Project_1#Какой-кейс-решаем#)
 
 [3.Краткая информация о данных](https://github.com/Alena0896/sf_data_science/tree/main/Project_1#Краткая-информация-о-данных)
 
